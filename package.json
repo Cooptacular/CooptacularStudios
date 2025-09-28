@@ -33,14 +33,13 @@
   ],
   "dependencies": {
     "@astrojs/mdx": "^4.3.6",
-    "@astrojs/netlify": "^6.5.11",
     "@astrojs/rss": "^4.0.12",
     "@fontsource/jetbrains-mono": "^5.0.0",
     "@fontsource/oswald": "^5.2.6",
     "@fontsource/roboto-condensed": "^5.2.6",
     "@fontsource/work-sans": "^5.2.6",
     "@tailwindcss/vite": "^4.1.13",
-    "astro": "^5.14.1",
+    "astro": "^5.13.7",
     "tailwindcss": "^4.1.13"
   },
   "devDependencies": {
